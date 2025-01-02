@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game (README)
+# Tic-Tac-Toe Game 
 
 ## Overview
 This project is a simple **Tic-Tac-Toe** game built using Python's `tkinter` library. It provides a graphical interface where two players can alternate turns to play the classic Tic-Tac-Toe game. Players can choose their symbol (`X` or `O`), and the game highlights the winning line or declares a draw when no more moves are possible.
