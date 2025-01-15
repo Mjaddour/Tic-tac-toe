@@ -76,6 +76,10 @@ This project is a simple **Tic-Tac-Toe** game built using Python's `tkinter` lib
 - Allow players to customize their symbols.
 - Add animations for transitions and winning highlights.
 
----
+## Exemple:
+![image](https://github.com/user-attachments/assets/b64277f8-87b9-4a4d-829f-c19fb0f0487f)
+![image](https://github.com/user-attachments/assets/9255242b-5409-4494-a3d9-f428f21c1674)
+
+
 
 Enjoy playing Tic-Tac-Toe! 🎮
